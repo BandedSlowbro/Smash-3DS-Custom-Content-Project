@@ -1,6 +1,6 @@
-# Smash-3DS-Alt.-Costume-Project
+# Smash-3DS-Alt.-Custom-Content-Project
 
-A project to add new alternate costumes to Smash 3DS.
+A project to add new custtom content to Smash 3DS.
 
 All files for costumes should go under model/fighter/(character name)/body/(whichever costume you want to replace)/
 
