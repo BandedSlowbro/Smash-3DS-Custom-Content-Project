@@ -1,4 +1,4 @@
-# Smash-3DS-Alt.-Custom-Content-Project
+# Smash-3DS-Custom-Content-Project
 
 A project to add new custtom content to Smash 3DS.
 
