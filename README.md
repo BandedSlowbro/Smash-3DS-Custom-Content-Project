@@ -1,6 +1,6 @@
 # Smash-3DS-Custom-Content-Project
 
-A project to add new custtom content to Smash 3DS.
+A project to add new custom content to Smash 3DS.
 
 Costumes
 
